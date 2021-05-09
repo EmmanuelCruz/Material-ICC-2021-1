@@ -1,4 +1,4 @@
-# Material de apoyo para el curso de Introducción a Ciencias de la Computación 2020-1.
+# Material de apoyo para el curso de Introducción a Ciencias de la Computación 2021-1.
 ## Emmanuel Cruz Hernández.
 
 ----
